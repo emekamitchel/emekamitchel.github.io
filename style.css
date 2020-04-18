@@ -1,0 +1,39 @@
+.section{
+    font-family: florence, cursive;
+ }
+ .mea{
+     font-size: xx-large;
+     font-family: 'Handlee';
+     text-shadow: 5px 2px 4px grey;
+ }
+ .section1{
+    font-size: xx-large;
+    font-family: 'Handlee';
+    text-shadow: 5px 2px 4px grey;
+    padding: 100px;    
+    border: 5px solid white;
+    text-align: center;
+    color: white;
+    background-color: black;
+    background-image: url("mitchy3.jpg");
+    background-repeat: no-repeat;
+ }
+ .section2{
+    font-size: large;
+    border: 5px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: florence, cursive;
+ }
+ .section3{
+    border: 5px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: florence, cursive;
+    background-image: url("green1.jpg");
+    background: rgba(76, 175, 80, 0.5)
+ }
+ .quote{
+     font-family: 'Courier New', Courier, monospace;
+     text-align: right;
+ }
